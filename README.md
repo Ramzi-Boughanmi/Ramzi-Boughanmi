@@ -6,7 +6,6 @@
 ---
 
 ## 🛠 Skills  
-
 ### **Front-End**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)  
@@ -23,9 +22,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)  
 
-### **Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)  
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)  
+### **Tools & Platforms**  
+![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp)  
+
 
 ---
 ## 🚀 Projects
